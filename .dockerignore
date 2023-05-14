@@ -1,0 +1,5 @@
+/google_api/*
+/cert/*
+/.env
+/node_modules
+/package-lock.json
